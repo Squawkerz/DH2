@@ -1,1017 +1,1017 @@
 export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {		
 	caterpie: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	metapod: {	
-		tier: "Forgottenmons NFE",
+		tier: "FM NFE",
 	},	
 	butterfree: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	weedle: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	kakuna: {	
-		tier: "Forgottenmons NFE",
+		tier: "FM NFE",
 	},	
 	beedrill: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	pidgey: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	pidgeotto: {	
-		tier: "Forgottenmons NFE",
+		tier: "FM NFE",
 	},	
 	pidgeot: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	rattata: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	rattataalola: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	raticate: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	raticatealola: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	spearow: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	fearow: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	nidoranf: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	nidorina: {	
-		tier: "Forgottenmons NFE",
+		tier: "FM NFE",
 	},	
 	nidoqueen: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	nidoranm: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	nidorino: {	
-		tier: "Forgottenmons NFE",
+		tier: "FM NFE",
 	},	
 	nidoking: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	zubat: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	golbat: {	
-		tier: "Forgottenmons NFE",
+		tier: "FM NFE",
 	},	
 	crobat: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	paras: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	parasect: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	abra: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	kadabra: {	
-		tier: "Forgottenmons NFE",
+		tier: "FM NFE",
 	},	
 	alakazam: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	machop: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	machoke: {	
-		tier: "Forgottenmons NFE",
+		tier: "FM NFE",
 	},	
 	machamp: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	ponyta: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	ponytagalar: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	rapidash: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	rapidashgalar: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	farfetchd: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	farfetchdgalar: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	sirfetchd: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	onix: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	steelix: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	krabby: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	kingler: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	cubone: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	marowak: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	marowakalola: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	lickitung: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	lickilicky: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	tangela: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	tangrowth: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	kangaskhan: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	goldeen: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	seaking: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	staryu: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	starmie: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	mimejr: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	mrmime: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	mrmimegalar: {	
-		tier: "Forgottenmons NFE",
+		tier: "FM NFE",
 	},	
 	mrrime: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	smoochum: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	jynx: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	pinsir: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	omanyte: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	omastar: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	kabuto: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	kabutops: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	aerodactyl: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	ledyba: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	ledian: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	togepi: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	togetic: {	
-		tier: "Forgottenmons NFE",
+		tier: "FM NFE",
 	},	
 	togekiss: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	natu: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	xatu: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	unown: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	wynaut: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	wobbuffet: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	shuckle: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	corsola: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	corsolagalar: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	cursola: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	remoraid: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	octillery: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	mantyke: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	mantine: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	miltank: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	celebi: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	zigzagoon: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	zigzagoongalar: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	linoone: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	linoonegalar: {	
-		tier: "Forgottenmons NFE",
+		tier: "FM NFE",
 	},	
 	obstagoon: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	wurmple: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	silcoon: {	
-		tier: "Forgottenmons NFE",
+		tier: "FM NFE",
 	},	
 	beautifly: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	cascoon: {	
-		tier: "Forgottenmons NFE",
+		tier: "FM NFE",
 	},	
 	dustox: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	taillow: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	swellow: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	nincada: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	ninjask: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	shedinja: {	
-		tier: "Forgottenmons Ubers",
+		tier: "FM Ubers",
 	},	
 	whismur: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	loudred: {	
-		tier: "Forgottenmons NFE",
+		tier: "FM NFE",
 	},	
 	exploud: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	skitty: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	delcatty: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	mawile: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	aron: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	lairon: {	
-		tier: "Forgottenmons NFE",
+		tier: "FM NFE",
 	},	
 	aggron: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	electrike: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	manectric: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	budew: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	roselia: {	
-		tier: "Forgottenmons NFE",
+		tier: "FM NFE",
 	},	
 	roserade: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	carvanha: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	sharpedo: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	wailmer: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	wailord: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	spinda: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	lunatone: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	solrock: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	baltoy: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	claydol: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	lileep: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	cradily: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	anorith: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	armaldo: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	castform: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	kecleon: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	absol: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	spheal: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	sealeo: {	
-		tier: "Forgottenmons NFE",
+		tier: "FM NFE",
 	},	
 	walrein: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	clamperl: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	huntail: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	gorebyss: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	relicanth: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	bidoof: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	bibarel: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	burmy: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	wormadam: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	wormadamsandy: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	wormadamtrash: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	mothim: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	cherubi: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	cherrim: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	buneary: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	lopunny: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	glameow: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	purugly: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	chatot: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	skorupi: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	drapion: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	carnivine: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	victini: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	patrat: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	watchog: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	lillipup: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	herdier: {	
-		tier: "Forgottenmons NFE",
+		tier: "FM NFE",
 	},	
 	stoutland: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	purrloin: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	liepard: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	pansage: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	simisage: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	pansear: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	simisear: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	panpour: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	simipour: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	munna: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	musharna: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	pidove: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	tranquill: {	
-		tier: "Forgottenmons NFE",
+		tier: "FM NFE",
 	},	
 	unfezant: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	roggenrola: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	boldore: {	
-		tier: "Forgottenmons NFE",
+		tier: "FM NFE",
 	},	
 	gigalith: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	woobat: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	swoobat: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	audino: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	tympole: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	palpitoad: {	
-		tier: "Forgottenmons NFE",
+		tier: "FM NFE",
 	},	
 	seismitoad: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	throh: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	sawk: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	venipede: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	whirlipede: {	
-		tier: "Forgottenmons NFE",
+		tier: "FM NFE",
 	},	
 	scolipede: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	darumaka: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	darumakagalar: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	darmanitan: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	darmanitangalar: {	
-		tier: "Forgottenmons Ubers",
+		tier: "FM Ubers",
 	},	
 	maractus: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	dwebble: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	crustle: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	sigilyph: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	yamask: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	yamaskgalar: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	cofagrigus: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	runerigus: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	tirtouga: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	carracosta: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	archen: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	archeops: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	trubbish: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	garbodor: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	vanillite: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	vanillish: {	
-		tier: "Forgottenmons NFE",
+		tier: "FM NFE",
 	},	
 	vanilluxe: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	emolga: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	karrablast: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	escavalier: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	frillish: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	jellicent: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	ferroseed: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	ferrothorn: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	klink: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	klang: {	
-		tier: "Forgottenmons",
+		tier: "FM NFE",
 	},	
 	klinklang: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	elgyem: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	beheeyem: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	shelmet: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	accelgor: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	stunfisk: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	stunfiskgalar: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	druddigon: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	bouffalant: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	heatmor: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	durant: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	genesect: {	
-		tier: "Forgottenmons Ubers",
+		tier: "FM Ubers",
 	},	
 	genesectburn: {	
-		tier: "Forgottenmons Ubers",
+		tier: "FM Ubers",
 	},	
 	genesectchill: {	
-		tier: "Forgottenmons Ubers",
+		tier: "FM Ubers",
 	},	
 	genesectdouse: {	
-		tier: "Forgottenmons Ubers",
+		tier: "FM Ubers",
 	},	
 	genesectshock: {	
-		tier: "Forgottenmons Ubers",
+		tier: "FM Ubers",
 	},	
 	bunnelby: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	diggersby: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	pancham: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	pangoro: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	furfrou: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	honedge: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	doublade: {	
-		tier: "Forgottenmons NFE",
+		tier: "FM NFE",
 	},	
 	aegislash: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	spritzee: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	aromatisse: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	swirlix: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	slurpuff: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	binacle: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	barbaracle: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	helioptile: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	heliolisk: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	tyrunt: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	tyrantrum: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	amaura: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	aurorus: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	pumpkaboo: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	pumpkaboosmall: {
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	pumpkaboolarge: {
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	pumpkaboosuper: {
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	gourgeist: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	gourgeistsmall: {
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	gourgeistlarge: {
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	gourgeistsuper: {
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	xerneas: {	
-		tier: "Forgottenmons Ubers",
+		tier: "FM Ubers",
 	},	
 	xerneasneutral: {	
 		isNonstandard: "Custom", // can't be used in battle
-		tier: "Forgottenmons Ubers",
+		tier: "FM Ubers",
 	},	
 	yveltal: {	
-		tier: "Forgottenmons Ubers",
+		tier: "FM Ubers",
 	},	
 	zygarde: {	
-		tier: "Forgottenmons Ubers",
+		tier: "FM Ubers",
 	},	
 	zygarde10: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	zygardecomplete: {	
-		tier: "Forgottenmons Ubers",
+		tier: "FM Ubers",
 	},	
 	wishiwashi: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	morelull: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	shiinotic: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	stufful: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	bewear: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	wimpod: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	golisopod: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	pyukumuku: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	typenull: {	
-		tier: "Forgottenmons NFE",
+		tier: "FM NFE",
 	},	
 	silvally: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	silvallybug: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	silvallydark: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	silvallydragon: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	silvallyelectric: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	silvallyfairy: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	silvallyfighting: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	silvallyfire: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	silvallyflying: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	silvallyghost: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	silvallygrass: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	silvallyground: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	silvallyice: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	silvallypoison: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	silvallypsychic: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	silvallyrock: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	silvallysteel: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	silvallywater: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	turtonator: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	togedemaru: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	drampa: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	dhelmise: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	tapukoko: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	tapulele: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	tapubulu: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	tapufini: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	nihilego: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	buzzwole: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	pheromosa: {	
-		tier: "Forgottenmons Ubers",
+		tier: "FM Ubers",
 	},	
 	xurkitree: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	celesteela: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	kartana: {	
-		tier: "Forgottenmons Ubers",
+		tier: "FM Ubers",
 	},	
 	guzzlord: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	marshadow: {	
-		tier: "Forgottenmons Ubers",
+		tier: "FM Ubers",
 	},	
 	poipole: {	
-		tier: "Forgottenmons NFE",
+		tier: "FM NFE",
 	},	
 	naganadel: {	
-		tier: "Forgottenmons Ubers",
+		tier: "FM Ubers",
 	},	
 	stakataka: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	blacephalon: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	zeraora: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	meltan: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	melmetal: {	
-		tier: "Forgottenmons Ubers",
+		tier: "FM Ubers",
 	},	
 	blipbug: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	dottler: {	
-		tier: "Forgottenmons NFE",
+		tier: "FM NFE",
 	},	
 	orbeetle: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	nickit: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	thievul: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	gossifleur: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	eldegoss: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	wooloo: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	dubwool: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	yamper: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	boltund: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	sizzlipede: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	centiskorch: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	clobbopus: {	
-		tier: "Forgottenmons LC",
+		tier: "FM LC",
 	},	
 	grapploct: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	dracozolt: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	arctozolt: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 	dracovish: {	
-		tier: "Forgottenmons Ubers",
+		tier: "FM Ubers",
 	},	
 	arctovish: {	
-		tier: "Forgottenmons",
+		tier: "FM",
 	},	
 };		
