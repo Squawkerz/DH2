@@ -4,7 +4,7 @@ export const Scripts: {[k: string]: ModdedBattleScriptsData} = {
 		// for micrometas to only show custom tiers
 		excludeStandardTiers: true,
 		// only to specify the order of custom tiers
-		customTiers: ['Forgottenmons', 'Forgottenmons NFE', 'Forgottenmons LC', 'Forgottenmons Ubers'],
+		customTiers: ['FM', 'FM NFE', 'FM LC', 'FM Ubers'],
 	},
 	init() {
 		this.modData("Learnsets", "caterpie").learnset.terablast = ["9L1"];
